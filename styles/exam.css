@@ -36,7 +36,7 @@ aside ul ul {
 aside {
     width: 20%;
     float: right;
-    background-color: #ffebc6;
+    background-color: #c6ebff;
 }
 .wrapper {
     display: flex;
@@ -50,4 +50,8 @@ aside {
 
 footer {
     text-align: center;
+}
+footer {
+    clear: both;
+    border-top: 2px solid maroon;
 }
