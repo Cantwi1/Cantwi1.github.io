@@ -1,4 +1,4 @@
-header {
+head {
     clear: both;
     border-top: 2px solid rgb(0, 15, 128);
 }
@@ -60,4 +60,15 @@ footer {
     clear: both;
     border-top: 2px solid rgb(0, 15, 128);
 }
-
+#nav_menu ul li a {
+    text-align: center;
+    display: block;
+    width: 175px;
+    padding: 1em 0;      /* padding above and below a
+                            elements */
+    text-decoration: none;
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    border-right: 2px solid white; }
+#nav_menu ul li a.lastitem { border-right: none; }	
