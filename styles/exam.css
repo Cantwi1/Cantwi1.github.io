@@ -33,7 +33,11 @@ aside ul {
 aside ul ul {
     list-style-type: square;
 }
-
+aside {
+    width: 20%;
+    float: right;
+    background-color: #ffebc6;
+}
 .wrapper {
     display: flex;
 }
