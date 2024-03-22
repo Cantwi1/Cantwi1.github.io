@@ -56,7 +56,7 @@ article p::first-letter {
     font-style: italic;
     font-weight: bold;
     font-size: 2.5rem;
-    color: blue;
+    color: white;
 }
 
 
@@ -142,7 +142,7 @@ article{
     width: 75%;
     float: left;
     column-count: 3;
-    column-rule: 2px dotted purple;
+    column-rule: 2px dotted white;
     column-gap: 2em;
     margin-left: 2em;
     }
