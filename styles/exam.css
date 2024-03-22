@@ -187,18 +187,18 @@ body{
         margin: 0 2em;
         padding-left: 2em;
         clear: both;
-        border-top: 3px solid white;
+        border-top: 3px solid blue;
     }
     
     h1, h2{
-        color: white;
+        color: blue;
     }
 
     aside.right {
-        border: 4px solid white;
+        border: 4px solid blue;
         width: 20%;
         padding: 2em 1em 1em;
-        background-color: white;
+        background-color: blue;
         position: fixed;
         top: 25%;
         right: 0;
