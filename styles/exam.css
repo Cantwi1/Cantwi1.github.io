@@ -118,7 +118,7 @@ body{
     font-weight: blue;
     border-right: 2px solid white; }
 #nav_menu ul li a.lastitem { border-right: white; }    
-#nav_menu ul li a.current { color: white; }
+#nav_menu ul li a.current { color: blue; }
 
 aside{
     width: 20%;
