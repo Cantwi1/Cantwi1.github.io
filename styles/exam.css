@@ -12,9 +12,9 @@ html {
     padding: 1em 0;      /* padding above and below a
                             element */
     text-decoration: none;
-    background-color: white;
-    color: white;
-    font-weight: white;
+    background-color: blue;
+    color: blue;
+    font-weight: blue;
     border-right: 2px solid white; }
 #nav_menu ul li a.lastitem { border-right: none; }    
 #nav_menu ul li a.current { color: blue; }
@@ -187,18 +187,18 @@ body{
         margin: 0 2em;
         padding-left: 2em;
         clear: both;
-        border-top: 3px solid blue;
+        border-top: 3px solid white;
     }
     
     h1, h2{
-        color: blue;
+        color: white;
     }
 
     aside.right {
-        border: 4px solid blue;
+        border: 4px solid white;
         width: 20%;
         padding: 2em 1em 1em;
-        background-color: blue;
+        background-color: white;
         position: fixed;
         top: 25%;
         right: 0;
