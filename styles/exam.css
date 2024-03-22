@@ -22,9 +22,9 @@ html {
 aside{
     width: 20%;
     float: right;
-    background-color: brown;
+    background-color: Blue;
     padding: 1em;
-    border: 3px solid brown;
+    border: 3px solid Blue;
 }
 
 aside ol{
