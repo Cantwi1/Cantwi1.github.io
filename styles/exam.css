@@ -114,7 +114,7 @@ body{
     padding: 1em 0;      
     text-decoration: none;
     background-color: white;
-    color: white;
+    color: blue;
     font-weight: blue;
     border-right: 2px solid white; }
 #nav_menu ul li a.lastitem { border-right: white; }    
