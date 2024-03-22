@@ -22,7 +22,7 @@ html {
 aside{
     width: 20%;
     float: right;
-    background-color: white;
+    background-color: light skyblue;
     padding: 1em;
     border: 3px solid Blue;
 }
@@ -90,7 +90,7 @@ body{
     }
     
     h1, h2{
-        color: blue;
+        color: white;
     }
 
     aside.right {
