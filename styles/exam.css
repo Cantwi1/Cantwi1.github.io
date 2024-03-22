@@ -17,7 +17,7 @@ html {
     font-weight: blue;
     border-right: 2px solid white; }
 #nav_menu ul li a.lastitem { border-right: none; }    
-#nav_menu ul li a.current { color: blue; }
+#nav_menu ul li a.current { color: white; }
 
 aside{
     width: 20%;
